@@ -1,6 +1,6 @@
 ## Hi there,I'm Vidya Sagar Dekka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
-About Me:
+**About Me:**
 
 🔍 Data Analyst | Passionate about turning raw data into clear insights  
 🌱 Currently learning: Power BI, Python, and real-world data projects  
