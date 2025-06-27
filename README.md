@@ -5,7 +5,16 @@
 💬 Ask me about data visualization, dashboards, or analytics tools  
 📫 Reach me: vidyasagardekka@gmail.com
 
-⚡ Fun fact: I love combining storytelling with data to solve real problems!
+## 💡 What I Believe In
+
+- 💪 Respect for every kind of work — I believe in the dignity of labor  
+- 🤝 Collaboration over competition  
+- 📚 Lifelong learning — always curious, always growing
+
+## ⚡ Fun fact: 
+- 🎸 I love playing guitar  
+- 🚗 Mad about manual cars  
+- 💬 Known for fast typing and clear communication
 
 ## 🔵 Social 
 <a href="https://www.linkedin.com/in/vidya-sagar-dekka" target="_blank">
